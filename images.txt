@@ -1,1 +1,2 @@
 itsthenetwork/nfs-server-alpine
+adoptopenjdk/openjdk8
